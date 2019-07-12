@@ -1,0 +1,19 @@
+{
+  "name": "swiggy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "parking",
+    "lot"
+  ],
+  "author": "suraj jha",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "jest-cli": "^24.8.0"
+  }
+}
